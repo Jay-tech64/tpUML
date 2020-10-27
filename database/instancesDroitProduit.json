@@ -1,0 +1,154 @@
+{
+	"Instances": [
+		{
+			"Droit": {
+				"idDroit": "Droit #0",
+				"type": 3,
+				"dateDebut": "2020-08-22T22:39:03.487Z",
+				"dateFin": "2021-03-27T16:23:46.620Z"
+			},
+			"Produit": {
+				"id": 0,
+				"nom": "Retta",
+				"description": "doloremque iusto rerum"
+			},
+			"droitProduit": {
+				"droit": [
+					{
+						"idDroit": "Droit #0",
+						"type": 3,
+						"dateDebut": "2020-08-22T22:39:03.487Z",
+						"dateFin": "2021-03-27T16:23:46.620Z"
+					}
+				],
+				"produit": [
+					{
+						"id": 0,
+						"nom": "Retta",
+						"description": "doloremque iusto rerum"
+					}
+				]
+			}
+		},
+		{
+			"Droit": {
+				"idDroit": "Droit #1",
+				"type": 3,
+				"dateDebut": "2020-04-11T20:08:06.683Z",
+				"dateFin": "2021-04-13T23:34:49.545Z"
+			},
+			"Produit": {
+				"id": 1,
+				"nom": "Mozell",
+				"description": "quaerat nulla asperiores"
+			},
+			"droitProduit": {
+				"droit": [
+					{
+						"idDroit": "Droit #1",
+						"type": 3,
+						"dateDebut": "2020-04-11T20:08:06.683Z",
+						"dateFin": "2021-04-13T23:34:49.545Z"
+					}
+				],
+				"produit": [
+					{
+						"id": 1,
+						"nom": "Mozell",
+						"description": "quaerat nulla asperiores"
+					}
+				]
+			}
+		},
+		{
+			"Droit": {
+				"idDroit": "Droit #2",
+				"type": 3,
+				"dateDebut": "2019-11-08T03:48:33.555Z",
+				"dateFin": "2021-09-04T06:59:48.590Z"
+			},
+			"Produit": {
+				"id": 2,
+				"nom": "Scot",
+				"description": "autem quia ipsum"
+			},
+			"droitProduit": {
+				"droit": [
+					{
+						"idDroit": "Droit #2",
+						"type": 3,
+						"dateDebut": "2019-11-08T03:48:33.555Z",
+						"dateFin": "2021-09-04T06:59:48.590Z"
+					}
+				],
+				"produit": [
+					{
+						"id": 2,
+						"nom": "Scot",
+						"description": "autem quia ipsum"
+					}
+				]
+			}
+		},
+		{
+			"Droit": {
+				"idDroit": "Droit #3",
+				"type": 2,
+				"dateDebut": "2020-06-23T10:35:18.185Z",
+				"dateFin": "2021-06-11T05:10:36.763Z"
+			},
+			"Produit": {
+				"id": 3,
+				"nom": "Trudie",
+				"description": "accusantium eos eos"
+			},
+			"droitProduit": {
+				"droit": [
+					{
+						"idDroit": "Droit #3",
+						"type": 2,
+						"dateDebut": "2020-06-23T10:35:18.185Z",
+						"dateFin": "2021-06-11T05:10:36.763Z"
+					}
+				],
+				"produit": [
+					{
+						"id": 3,
+						"nom": "Trudie",
+						"description": "accusantium eos eos"
+					}
+				]
+			}
+		},
+		{
+			"Droit": {
+				"idDroit": "Droit #4",
+				"type": 1,
+				"dateDebut": "2020-04-02T17:49:25.232Z",
+				"dateFin": "2020-11-09T06:04:33.342Z"
+			},
+			"Produit": {
+				"id": 4,
+				"nom": "Dylan",
+				"description": "qui dolorem quibusdam"
+			},
+			"droitProduit": {
+				"droit": [
+					{
+						"idDroit": "Droit #4",
+						"type": 1,
+						"dateDebut": "2020-04-02T17:49:25.232Z",
+						"dateFin": "2020-11-09T06:04:33.342Z"
+					}
+				],
+				"produit": [
+					{
+						"id": 4,
+						"nom": "Dylan",
+						"description": "qui dolorem quibusdam"
+					}
+				]
+			}
+		}
+	]
+}

@@ -1,0 +1,35 @@
+Ce fichier va contenir ma réflexion (CONCEPTION)
+
+PHASE 1 : Différencier les classes des interfaces
+
+1. Convertir les Boîtes (Objets) en fichier TypeScript
+2. Différencier les Boîtes ==> s'il y a un nom ITALIC ou une flèche en POINTILLÉE ==> Interface sinon classes
+
+Total : 11 classes (11 fichiers TypeScript) : Voici ==>
+
+
+public class Droit
+public class Client
+public class Individu
+public class Entreprise
+public class CodeBarre
+public class Details
+public class Contact
+public class Option
+public class Produit
+
+
+PHASE 2 : Vérifier les stéréotypes <<  >>
+
+public enum ClientType
+public enum DroitType
+
+
+PHASE 3 : Traduire les relations + leurs poids
+
+Client one one CodeBarre
+Client one many Droit (* => n => Infini => 2 => 3)
+Droit many many Produit
+Details one one Individu (Composition = Relation 1 1 + une instanciation OBLIGATOIRE DANS LE CONSTRUCTEUR)
+Option one one Produit (Agregation = Relation + une instanciation NON OBLIGATOIRE DANS LE CONSTRUCTEUR)
+

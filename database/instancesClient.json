@@ -1,0 +1,86 @@
+{
+	"Instances": [
+		{
+			"Client": {
+				"idClient": 1,
+				"type": 1,
+				"adresse": "70378 Block Field",
+				"nom": "Huel, Deckow and Gutkowski",
+				"phone": "(854) 918-6975",
+				"fax": "508.732.7594 x7350",
+				"details": {
+					"idDetail": 1,
+					"rue": "Hane Club",
+					"ville": "Kreigerport",
+					"province": "Connecticut"
+				},
+				"contact": {
+					"idContact": 1,
+					"prenom": "Furman",
+					"nom": "Bruen",
+					"email": "Declan_Gutmann@yahoo.com"
+				}
+			}
+		},
+		{
+			"Client": {
+				"idClient": 2,
+				"type": 0,
+				"adresse": "36683 Willow Ramp",
+				"prenom": "Tressie",
+				"nom": "Balistreri",
+				"email": "Adolphus.Smith87@hotmail.com",
+				"details": {
+					"idDetail": 2,
+					"rue": "Jerde Flat",
+					"ville": "Ortizbury",
+					"province": "Iowa"
+				}
+			}
+		},
+		{
+			"Client": {
+				"idClient": 3,
+				"type": 0,
+				"adresse": "735 Raynor Village",
+				"prenom": "Judson",
+				"nom": "Hoppe",
+				"email": "Flavie_Von27@yahoo.com",
+				"details": {
+					"idDetail": 3,
+					"rue": "Goyette Cape",
+					"ville": "Sipesmouth",
+					"province": "Montana"
+				}
+			}
+		},
+		{
+			"Client": {
+				"idClient": 4,
+				"type": 1,
+				"adresse": "42579 Ankunding Haven",
+				"nom": "Heaney, Boehm and Senger",
+				"phone": "860.935.1087",
+				"fax": "503.210.9202",
+				"details": {
+					"idDetail": 4,
+					"rue": "Orn Ramp",
+					"ville": "Okunevafort",
+					"province": "Delaware"
+				},
+				"contact": {
+					"idContact": 4,
+					"prenom": "Roxane",
+					"nom": "King",
+					"email": "Bud_Conroy18@yahoo.com"
+				}
+			}
+		},
+		{
+			"Client": {
+				"idClient": 5,
+				"adresse": "3563 Serenity Parkway"
+			}
+		}
+	]
+}
