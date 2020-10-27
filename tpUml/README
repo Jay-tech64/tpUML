@@ -1,3 +1,5 @@
+J'ai inclu seulement les fichiers TypeScript. Pour avoir les fichiers JavaScript, il faut les compiler avec la commande: tsc nom_du_fichier_TypeScript
+
 Ce fichier va contenir ma réflexion (CONCEPTION)
 
 PHASE 1 : Différencier les classes des interfaces
