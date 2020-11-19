@@ -6,7 +6,6 @@ export class Produit {
     nom: string;
     description: string;
     produit: Produit;
-    droitProduit: DroitProduit;
     option: Options;
 
     
